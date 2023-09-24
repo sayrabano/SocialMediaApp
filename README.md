@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this isSocialMedia app built on react 
+to run this 
+use command `npm start`  but install all packages using `npm i`
+
+this application is build on reactjs ,scss,firebase db.
 
 ## Available Scripts
 
